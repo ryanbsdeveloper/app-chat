@@ -26,3 +26,4 @@ Execute o arquivo "**Chat developers.exe**"
 
 *Seja bem vindo(a) a comunidade*
 
+##### Detalhe do desenvolvimento: https://github.com/ryanbsdeveloper/opensource-chat
