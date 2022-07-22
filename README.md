@@ -1,4 +1,4 @@
-# Aplicativo ( 🆗 Em funcionamento )
+# Aplicativo (⚠️Fora do ar)
 ![Google-Chat-Logo](https://user-images.githubusercontent.com/94659270/180288387-a72b5b25-84b7-40f5-9194-6e94ce9ed769.png)
 
 
